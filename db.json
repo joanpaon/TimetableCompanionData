@@ -1,91 +1,64 @@
 [
   {
     "id": "LM1",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "08:20",
     "to": "09:15",
-    "classroom": "I-02",
     "module": "Programación",
     "teacher": "José A. Pacheco"
   },
   {
     "id": "LM2",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "09:15",
     "to": "10:10",
-    "classroom": "I-02",
     "module": "Programación",
     "teacher": "José A. Pacheco"
   },
   {
     "id": "LM3",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "10:10",
     "to": "11:00",
-    "classroom": "I-02",
     "module": "Inglés",
     "teacher": "José A. Pacheco"
   },
   {
     "id": "DLM1",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "11:00",
     "to": "11:20",
-    "classroom": "Patio",
     "module": "Descanso",
     "teacher": ""
   },
   {
     "id": "LM4",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "11:20",
     "to": "12:15",
-    "classroom": "I-02",
     "module": "Sistemas Informáticos",
     "teacher": "Ester Beneito"
   },
   {
     "id": "LM5",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "12:15",
     "to": "13:10",
-    "classroom": "I-02",
     "module": "Sistemas Informáticos",
     "teacher": "Ester Beneito"
   },
   {
     "id": "LM6",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "13:10",
     "to": "14:05",
-    "classroom": "I-02",
     "module": "FOL",
     "teacher": "Beatriz"
   },
   {
     "id": "DLM2",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "14:05",
     "to": "14:15",
-    "classroom": "",
     "module": "",
     "teacher": ""
   },
   {
     "id": "LM7",
-    "day": "lunes",
-    "turn": "Mañana",
     "from": "14:15",
     "to": "15:10",
-    "classroom": "",
     "module": "",
     "teacher": ""
   }
