@@ -33,33 +33,5 @@
     "to": "12:15",
     "module": "Sistemas Informáticos",
     "teacher": "Ester Beneito"
-  },
-  {
-    "id": "LM5",
-    "from": "12:15",
-    "to": "13:10",
-    "module": "Sistemas Informáticos",
-    "teacher": "Ester Beneito"
-  },
-  {
-    "id": "LM6",
-    "from": "13:10",
-    "to": "14:05",
-    "module": "FOL",
-    "teacher": "Beatriz"
-  },
-  {
-    "id": "DLM2",
-    "from": "14:05",
-    "to": "14:15",
-    "module": "",
-    "teacher": ""
-  },
-  {
-    "id": "LM7",
-    "from": "14:15",
-    "to": "15:10",
-    "module": "",
-    "teacher": ""
   }
 ]
